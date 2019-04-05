@@ -1,6 +1,7 @@
 #!/bin/bash
 
-DOWNLOAD_URL="https://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-imagebuilder-18.06.2-ar71xx-tiny.Linux-x86_64.tar.xz"
+#DOWNLOAD_URL="https://downloads.openwrt.org/releases/18.06.2/targets/ar71xx/tiny/openwrt-imagebuilder-18.06.2-ar71xx-tiny.Linux-x86_64.tar.xz"
+DOWNLOAD_URL="https://downloads.openwrt.org/releases/17.01.5/targets/ar71xx/generic/lede-imagebuilder-17.01.5-ar71xx-generic.Linux-x86_64.tar.xz"
 BIN_DIR=./bin
 
 cd $(dirname $0)

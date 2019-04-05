@@ -1,0 +1,3 @@
+PROFILE=tl-wr703n-v1
+IMAGE_NAME=modem
+PACKAGES="-kmod-gpio-button-hotplug -odhcpd-ipv6only -odhcpd kmod-usb-net kmod-usb-net-rndis kmod-usb-net-cdc-ether iptables-mod-ipopt kmod-ipt-ipopt"
